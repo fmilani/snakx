@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+}
+
+/* TODO: remove this ugly hack bellow.
+   Couldn't find a way to center the canvas with konva
+*/
+.konvajs-content {
+  margin: 0 auto !important;
+}
+
+.App {
+  text-align: center;
+}
